@@ -18,7 +18,7 @@ public class InsertionSort implements Sorter{
             sorted[b + 1] = j;
         }
 
-        
+        return sort;
     }
 
     @Override
